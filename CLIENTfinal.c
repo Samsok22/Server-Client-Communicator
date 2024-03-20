@@ -1,5 +1,5 @@
 
-KLIENT:
+//KLIENT:
 
 
 #include <stdio.h>
